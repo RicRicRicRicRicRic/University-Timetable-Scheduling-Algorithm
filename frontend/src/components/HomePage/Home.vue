@@ -12,9 +12,6 @@ export default {
   <div>
     <h1>Welcome to the Home Page!</h1>
   </div>
-  <router-link to="/login">
-      <button>Go to Login</button>
-  </router-link>
 </template>
 
 <style scoped>
